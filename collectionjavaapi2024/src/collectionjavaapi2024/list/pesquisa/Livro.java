@@ -29,9 +29,7 @@ public class Livro {
 	@Override
 	public String toString() {
 		return "Livro"+
-				" [Titulo: " + titulo +'\''+
-				"Autor: " + autor +'\''+
-				"dataPublicacao=" + dataPublicacao;
+				"Titulo: " + titulo + " Autor: " + autor + " dataPublicacao= " + dataPublicacao+"\n";
 	}
 	
 	
