@@ -1,4 +1,4 @@
-package collectionjavaapi2024.list.ordenacao;
+package collectionjavaapi2024.comparableXcomparator.ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;
