@@ -56,6 +56,6 @@ public class EstoqueProdutos {
 		estoqueProduto.exibirProduto();
 
 		System.out.println("Valor total do estoque: R$ " + estoqueProduto.calculaValorTotalEstoque());
-		System.out.println("Produto mais barato: " + estoqueProduto.obterProdutoMaisCaro());
+		System.out.println("Produto mais caro: " + estoqueProduto.obterProdutoMaisCaro());
 	}
 }
